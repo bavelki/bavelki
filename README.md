@@ -9,8 +9,12 @@
 
 ```
 
-### Merhaba,<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="320" />
+<img src="https://github.com/bavelki/bavelki/blob/main/renk.gif" width="1100px">
+
+### Hi,<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<img align="right" alt="GIF" src="https://github.com/bavelki/bavelki/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="320" />
+
+
 
 ```
 🔭 I’m currently working on a large and special work.
@@ -21,8 +25,6 @@
 📫 How to reach me: My Mail adress and Instagram account.
 ⚡ Fun fact: I love to say song, play video games and travel.
 ```
-
-<br />
 
 ### 📩 Connect with me:
 
@@ -47,6 +49,8 @@
 <br />
 <br />
 <br />
+
+<img src="https://github.com/bavelki/bavelki/blob/main/renk.gif" width="1100px">
 
 ### GitHub Analytics 📊
 

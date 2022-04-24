@@ -11,13 +11,14 @@
 
 <br />
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-- 🔭 I’m currently working on a large and special work.
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on collaborate with other PHP developer 👩‍💻
-- 🤔 I’m looking for help with Fluuter front-end developer
-- 💬 I know PHP software language and I am dealing with E-Commerce.
-- 📫 How to reach me: My Mail adress and Instagram account.
-- ⚡ Fun fact: I love to say song, play video games and travel.
+<br />
+- 🔭 I’m currently working on a large and special work. <br />
+- 🌱 I’m currently learning Flutter. <br />
+- 👯 I’m looking to collaborate on collaborate with other PHP developer 👩‍💻. <br />
+- 🤔 I’m looking for help with Fluuter front-end developer. <br />
+- 💬 I know PHP software language and I am dealing with E-Commerce. <br />
+- 📫 How to reach me: My Mail adress and Instagram account. <br />
+- ⚡ Fun fact: I love to say song, play video games and travel. <br />
 
 <br />
 
@@ -43,11 +44,6 @@
 
 <br />
 
-## 👩‍💻📱 My Released Applications
-<a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
-
-
-<br />
 <br />
 <br />
 <br />
@@ -56,8 +52,9 @@
 
 ### GitHub Analytics 📊
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bavelki&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=bavelki&show_icons=true&theme=radical)
 
 <br />
 <br />
@@ -77,9 +74,4 @@
 [xd]: https://www.adobe.com/products/xd.html
 <br />
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=bavelki&show_icons=true&theme=radical)
-
-<br />
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/bolatbrs)
 

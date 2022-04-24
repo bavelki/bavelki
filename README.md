@@ -12,7 +12,7 @@
 <img src="https://github.com/bavelki/bavelki/blob/main/renk.gif" width="1100px">
 
 ### Hi,<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<img align="right" alt="GIF" src="https://github.com/bavelki/bavelki/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="320" />
+<img align="right" alt="GIF" src="https://github.com/bavelki/bavelki/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" width="300" height="320" />
 
 
 

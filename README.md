@@ -8,64 +8,102 @@
     '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
 
 ```
+<h1 align="center">Barış Bolat</h1>
+<p align="center">
+  <strong>CEO | Full-Stack Developer | Sistem Mimarı | Dijital Dönüşüm Danışmanı</strong>
+</p>
 
-<img src="https://github.com/bavelki/bavelki/blob/main/renk.gif" width="1100px">
+<p align="center">
+  🚀 Teknoloji Girişimcisi • 🔧 Yazılım Mimarı • 💡 Üretken Zihin
+</p>
 
-### Hi,<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<img align="right" alt="GIF" src="https://github.com/bavelki/bavelki/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" width="300" height="320" />
+---
 
+## 👨‍💼 Hakkımda
 
+Ben Barış Bolat, teknolojiye tutkusu olan ve çözümler üretmeye adanmış bir yazılım geliştiriciyim.  
+20 yaşındayım ve şu anda <strong>Layra Web Bilişim Hizmetleri</strong>'nin kurucusu ve CEO'suyum.
 
-```
-🔭 I’m currently working on a large and special work.
-🌱 I’m currently learning Flutter.
-👯 I’m looking to collaborate on collaborate with other PHP developer 👩‍💻.
-🤔 I’m looking for help with Fluuter front-end developer.
-💬 I know PHP software language and I am dealing with E-Commerce.
-📫 How to reach me: My Mail adress and Instagram account.
-⚡ Fun fact: I love to say song, play video games and travel.
-```
+Odaklandığım konular arasında:
+- Web tabanlı ERP sistemleri
+- API mimarileri ve entegrasyon
+- Sunucu altyapısı ve dağıtık sistem yönetimi
+- Hosting çözümleri ve Cloudflare otomasyonları
+- Siber güvenlik, lisanslama ve yazılım lisans doğrulama
+- AI destekli iş zekası sistemleri
 
-### 📩 Connect with me:
+Her gün yeni teknolojileri öğrenmeye ve bunları ölçeklenebilir iş çözümlerine dönüştürmeye çalışıyorum.  
+En büyük hedefim? **Globalde rekabet edebilecek ürünler üretmek.**
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+---
 
-<br />
+## 🧠 Yönettiğim Projeler
 
-### 🔧 Languages and Tools:
+| Proje | Açıklama |
+|-------|----------|
+| **LayERP** | PHP tabanlı, modüler yapıya sahip web ERP sistemi. Cari, fatura, rezervasyon, restoran yönetimi içerir. |
+| **Hostlera** | Kurumsal hosting çözümleri, alan adı hizmetleri ve uptime altyapısı sunar. |
+| **Eleksus** | Sosyal medya danışmanlığı ve hesap büyütme üzerine kurulu dijital ajans. |
+| **Bolat Medya** | Markalar için görünürlük artırma, içerik üretimi ve dijital reklam yönetimi. |
+| **layrAI** *(Beta)* | Gemini tabanlı ama kişiselleştirilmiş, kendini geliştiren yapay zeka proje asistanı. |
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/270px-PHP-logo.svg.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
-[<img align="left" alt="Adobe Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/66px-Adobe_Photoshop_CC_icon.svg.png" />]
+---
 
-<br />
-<br />
-<br />
+## 🛠️ Teknik Yetkinlikler
 
-<img src="https://github.com/bavelki/bavelki/blob/main/renk.gif" width="1100px">
+| Kategori | Teknolojiler |
+|---------|--------------|
+| **Backend** | PHP (OOP), Laravel, C#, .NET, Node.js |
+| **Frontend** | HTML5, CSS3, Bootstrap 5, JavaScript, jQuery |
+| **Mobil** | Flutter (başlangıç seviyesi) |
+| **DevOps** | Apache, Nginx, WHM, Cloudflare API, Git |
+| **Veritabanı** | MySQL, MSSQL, PDO, ORM, ilişkisel tasarım |
+| **Ekstra** | FPDF, ESC/POS, BizimSMS API, OpenAI API, webhook sistemleri |
 
-### GitHub Analytics 📊
+---
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bavelki&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-</a>
+## 📂 Öne Çıkan Özelliklerim
 
+- ✅ Yüzlerce kullanıcıya hizmet veren canlı ERP sistemleri
+- ✅ Kendi lisans kontrol sistemini sıfırdan geliştirme
+- ✅ KVM Over IP donanım geliştirme çalışmaları
+- ✅ Plesk XML lisans taklidi & doğrulama sistemleri
+- ✅ Mobil cihazlar için Wi-Fi denetimli uyarı uygulamaları
+- ✅ Sunucular arası otomatik failover DNS yapısı (Cloudflare)
 
-<br />
-<br />
+---
 
-[instagram]: https://www.instagram.com/bolatbars
-[bionluk]: https://bionluk.com/layraweb
-[linkedin]: https://www.linkedin.com/in/barbol/
-[gmail]: mailto:scgbaris@gmail.com
-[vsCode]: https://code.visualstudio.com/
-[android]: https://www.android.com/
-[github]: https://github.com/bavelki
+## 📈 GitHub Verileri
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bavelki&show_icons=true&theme=github_dark" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bavelki&theme=github_dark" />
+</p>
+
+---
+
+## 🌐 İletişim & Bağlantılar
+
+| Platform | Bağlantı |
+|----------|----------|
+| 💼 Web Sitesi | [layraweb.com.tr](https://layraweb.com.tr) |
+| 📧 E-posta | info@layraweb.com.tr |
+| 🐙 GitHub | [github.com/bavelki](https://github.com/bavelki) |
+
+---
+
+## ✍️ Hedeflerim
+   
+- [ ] Yerli KVM cihazı üretmek  
+
+---
+
+<p align="center">
+  <i>“Yesterdays are today, and todays are tomorrow.”</i>
+  <br/>
+  <strong>- Barış Bolat</strong>
+</p>
+
 
 
